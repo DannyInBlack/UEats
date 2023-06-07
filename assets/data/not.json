@@ -1,0 +1,16 @@
+{
+  "messages":[
+    {
+      "content": "test",
+      "image": "assets/uEats.png"
+    },
+    {
+      "content": "test2",
+      "image": "assets/uEats.png"
+    },
+    {
+      "content": "test3",
+      "image": "assets/uEats.png"
+    }
+  ]
+}

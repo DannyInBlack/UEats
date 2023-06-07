@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108508384321",
+    "project_id": "ueats-d65b4",
+    "storage_bucket": "ueats-d65b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108508384321:android:857d65dd96959fe64a8ac0",
+        "android_client_info": {
+          "package_name": "DannyMo.com.u_eats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108508384321-am4op6oj70afocgp2cr0b8v54te85mqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjc90omoWzEeZW3Az1QAzQ_Eg5fmuhAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108508384321-am4op6oj70afocgp2cr0b8v54te85mqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
